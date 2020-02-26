@@ -1,4 +1,4 @@
-# Network-Intrusion-Detector-
+# Network-Intrusion-Detector
 This project aims to build a network intrusion detector, a predictive model capable of distinguishing between bad connections, called intrusions or attacks, and good normal connections. <br />
 
 Modelled as a binary classification problem. The below models are used to detect the bad intrusions <br />
